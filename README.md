@@ -1,0 +1,1 @@
+# linear_regression_Canada_Per_Capita_Income_Prediction
